@@ -143,3 +143,16 @@ body{
 .location-not-found img{
     width: 80%;
 }
+
+#unit-toggle{
+    margin-top: 10px;
+    background-color: #bdbdbd;
+    padding: 10px;
+    color: white;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+#unit-toggle:hover {
+    background-color: #6b6b6b;
+}
